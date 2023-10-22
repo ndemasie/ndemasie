@@ -1,9 +1,3 @@
-<style>
-  .unlink {
-    text-decoration: none;
-  }
-</style>
-
 ### Hi there 👋
 
 I love to code.
