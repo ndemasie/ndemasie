@@ -4,9 +4,9 @@ I love to code.
 
 <div>
 
-![Personal website status](https://img.shields.io/website-up-down-green-red/http/nathan.demasie.com.svg?label=Website)
-[![Personal website counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnathan.demasie.com&count_bg=%2379C83D&title_bg=%23555555&icon=firefoxbrowser.svg&icon_color=%23E7E7E7&title=Site+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Github page view counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fndemasie1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Page+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Personal website status](https://img.shields.io/website-up-down-green-red/http/nathan.demasie.com.svg?label=Website)](https://nathan.demasie.com)
+[![Personal website counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnathan.demasie.com&count_bg=%2379C83D&title_bg=%23555555&icon=firefoxbrowser.svg&icon_color=%23E7E7E7&title=Site+Views&edge_flat=false)](https://nathan.demasie.com)
+[![Github page view counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fndemasie1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Page+Views&edge_flat=false)](https://github.com/ndemasie)
 
 </div>
 
