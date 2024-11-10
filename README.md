@@ -13,6 +13,7 @@
   <a aria-label="Linkedin site badge" href="https://www.linkedin.com/in/nathandemasie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
+<br/>
 <img alt="GitHub top languages infographic" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndemasie&theme=github_dark"/>
 
 <img alt="Github profile details infographic" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndemasie&theme=github_dark"/>
