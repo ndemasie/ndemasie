@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I love to code.
-
 <div>
   <a ara-label="Personal website status" href="https://nathan.demasie.com" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/nathan.demasie.com.svg?label=Website"/></a>
   <a ara-label="Personal website counter" href="https://nathan.demasie.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnathan.demasie.com&count_bg=%2379C83D&title_bg=%23555555&icon=firefoxbrowser.svg&icon_color=%23E7E7E7&title=Site+Views&edge_flat=false"/></a>
